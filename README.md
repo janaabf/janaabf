@@ -1,5 +1,6 @@
 # Jana Abfalterer
 she/her
+
 '96
 
 📍located in Vienna
@@ -7,6 +8,8 @@ she/her
 ### welcome, fellow human!
 
 Happy that you're joining me here, I have lots of ideas and things I want to create, but currently I'm working on optimizing [get-up](https://github.com/janaabf/get-up), a mobile alarm application, created with React Native and Expo.
+
+I freshly graduated from the UpLeveled Full-Stack Web Development Bootcamp in July and I cannot wait take on my next challenge!
 
 **my main tech stack:**
 
