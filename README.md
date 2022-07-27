@@ -1,16 +1,26 @@
-### Hi there 👋
+# Jana Abfalterer
+she/her
+'96
 
-<!--
-**janaabf/janaabf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍located in Vienna
 
-Here are some ideas to get you started:
+### welcome, fellow human!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Happy that you're joining me here, I have lots of ideas and things I want to create, but currently I'm working on optimizing [get-up](https://github.com/janaabf/get-up), a mobile alarm application, created with React Native and Expo.
+
+**my main tech stack:**
+
+- JavaScript
+- TypeScript
+- HTML
+- CSS (& Emotion)
+- Next.js
+- React.js
+- React Native/Expo
+- PostgreSQL
+- many more to come :)
+
+
+If you want to talk about code, or a possible job opportunity hit me up on [LinkedIn](https://www.linkedin.com/in/abfalterer-jana) or [Twitter](https://twitter.com/janaabfl)!
+
+Thanks for reading, I hope you're having a great day ✨
