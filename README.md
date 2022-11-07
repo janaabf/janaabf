@@ -7,9 +7,9 @@ she/her
 
 ### welcome, fellow human!
 
-Happy that you're joining me here, I have lots of ideas and things I want to create, but currently I'm working on optimizing [get-up](https://github.com/janaabf/get-up), a mobile alarm application, created with React Native and Expo.
+Happy that you're joining me here, I'm a front-end web developer at moonshiner!
 
-I freshly graduated from the UpLeveled Full-Stack Web Development Bootcamp in July and I cannot wait take on my next challenge!
+I graduated from the UpLeveled Full-Stack Web Development Bootcamp in July 2022 and super happy to be part of this community ever since :)
 
 **my main tech stack:**
 
@@ -24,6 +24,6 @@ I freshly graduated from the UpLeveled Full-Stack Web Development Bootcamp in Ju
 - many more to come :)
 
 
-If you want to talk about code, or a possible job opportunity hit me up on [LinkedIn](https://www.linkedin.com/in/abfalterer-jana) or [Twitter](https://twitter.com/janaabfl)!
+If you want to talk about code, hit me up on [LinkedIn](https://www.linkedin.com/in/abfalterer-jana) or [Twitter](https://twitter.com/janaabfl)!
 
 Thanks for reading, I hope you're having a great day ✨
