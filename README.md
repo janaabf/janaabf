@@ -3,15 +3,15 @@ she/her
 
 '96
 
-📍located in Vienna
+📍 Vienna
 
 ### welcome, fellow human!
 
-Happy that you're joining me here, I'm a front-end web developer at moonshiner!
+Thanks for joining me here, I'm a frontend web developer at moonshiner!
 
-I graduated from the UpLeveled Full-Stack Web Development Bootcamp in July 2022 and super happy to be part of this community ever since :)
+I graduated from the UpLeveled Full-Stack Web Development Bootcamp in July 2022 and am super happy to be part of this community ever since :)
 
-**my main tech stack:**
+**main tech stack:**
 
 - JavaScript
 - TypeScript
